@@ -1,4 +1,4 @@
-# Comparação de Editais 
+# Comparação de Editais FGV 
 | **Tópico Principal**               | **Assunto**                                                                 | **Frequência** | **Editais Relacionados** | **Observações**                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|----------------|--------------------------|--------------------------------------------------------------------------------|
 | **Banco de Dados**                 | Banco de dados relacional, modelos E-R, SQL, PL/SQL                         | 3/3            | Edital 1, 2, 3           | Oracle, PostgreSQL, H2 Database mencionados.                                   |
